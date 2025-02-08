@@ -26,7 +26,7 @@ Workflow:
 
 
 ## System Architecture
-![System Architecture](./System%20Architecture.png)
+![System Architecture](./image/System%20Architecture.png)
 
 ## Features
 - Real-time image capture and processing
