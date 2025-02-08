@@ -1,0 +1,60 @@
+name: hather_app
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.1
+  flutter_screenutil: ^5.9.0
+  shared_preferences: ^2.2.2
+  flutter_svg: ^2.0.9
+  easy_localization: ^3.0.3
+  iconsax_flutter: ^1.0.0
+  either_dart: ^1.0.0
+  get_it: ^7.6.7
+  equatable: ^2.0.5
+  another_flushbar: ^1.12.30
+  firebase_core: ^2.25.4
+  cloud_firestore: ^4.15.5
+  camera: ^0.10.5+9
+  dio: ^5.4.1
+  flutter_ringtone_player: ^4.0.0+2
+  image_picker: ^1.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+  flutter_launcher_icons: ^0.13.1
+flutter_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/images/logo.png"
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/translations/
+    - assets/images/
+    - assets/emergency.wav
+
+  fonts:
+    - family: IBMPlexSansCondensed
+      fonts:
+        - asset: assets/fonts/IBMPlexSansCondensed-Bold.ttf
+          weight: 700
+    - family: IBMPlexSansCondensed
+      fonts:
+        - asset: assets/fonts/IBMPlexSansCondensed-Medium.ttf
+          weight: 500
+    - family: IBMPlexSansCondensed
+      fonts:
+        - asset: assets/fonts/IBMPlexSansCondensed-Regular.ttf
+          weight: 400
+    - family: IBMPlexSansCondensed
+      fonts:
+        - asset: assets/fonts/IBMPlexSansCondensed-Light.ttf
+          weight: 200

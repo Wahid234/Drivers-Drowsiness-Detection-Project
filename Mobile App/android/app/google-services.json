@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636163772105",
+    "project_id": "foryou-79564",
+    "storage_bucket": "foryou-79564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636163772105:android:a8bbfe94ccaf24284a4718",
+        "android_client_info": {
+          "package_name": "com.example.hather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636163772105-r9ej25a8pojkus10nshm9qt5il6kqjt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMT_NhwUQ-LXqydkwgv4l8SoMIIWXzL7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636163772105-r9ej25a8pojkus10nshm9qt5il6kqjt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323.89 345.42">
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <path
+                d="M141.81,43.61a41,41,0,0,1,39.41,0l85.17,46.68a41,41,0,0,1,21.29,36v89.56a41,41,0,0,1-21.29,36l-85.17,46.68a41,41,0,0,1-39.41,0L56.64,251.77a41,41,0,0,1-21.3-36V126.25a41,41,0,0,1,21.3-36Z"
+                fill="none" stroke="#000" stroke-opacity="0.13" stroke-width="4" />
+            <path
+                d="M169,188.53c22.92,0,41.5-20.37,41.5-45.5s-18.58-45.5-41.5-45.5-41.5,20.37-41.5,45.5S146.09,188.53,169,188.53Z"
+                fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+                stroke-opacity="0.13" stroke-width="4.5" />
+            <path d="M241.51,265.53c0-31.71-42-67-78-67s-74,35.29-74,67" fill="none" stroke="#000"
+                stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.13"
+                stroke-width="4.5" />
+            <path d="M3,63.64,1.51,14.13A10,10,0,0,1,11.24,3.91l53.52-2.4" fill="none" stroke="#000"
+                stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.13"
+                stroke-width="1.5" />
+            <path d="M57.31,341.52,10.2,344.65a8.67,8.67,0,0,1-9.32-8.93l-.13-51" fill="none"
+                stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.13"
+                stroke-width="1.5" />
+            <path d="M269.1,2,313.5.75C318,.61,320.8,3.92,322,8.24a8.46,8.46,0,0,1,.23,1.81l1,45.48"
+                fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+                stroke-opacity="0.13" stroke-width="1.5" />
+            <path d="M322.23,288.53v46.16a10,10,0,0,1-10.29,9.67h-42.2" fill="none" stroke="#000"
+                stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.13"
+                stroke-width="1.5" />
+        </g>
+    </g>
+</svg>
